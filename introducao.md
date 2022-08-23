@@ -15,7 +15,7 @@ O COMPONENTE é como se fosse a junção do template com o código html e o cont
 Quando criamos aplicações em angular 2 nós criamos aplicações que são orientadas a componentes. Então tudo na nossa aplicação vai ser orientada a componente.
 
 
-![componente raiz](../image/componenteRaiz.png)
+![image](https://user-images.githubusercontent.com/52088444/186178095-fd263f94-14bb-4029-b5e3-438dfe2df177.png)
 
 
 - Diretivas
