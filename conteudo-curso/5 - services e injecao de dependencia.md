@@ -1,7 +1,5 @@
-﻿## Modulos
+﻿##  Introdução aos Serviços e Injeção de Dependência (DI)
+ 
+ ![image](https://user-images.githubusercontent.com/52088444/186412367-25eb0785-3a46-4636-9159-b4791ffe5630.png)
 
-Modulos é aquele arquivo que vai ajudar a organizar a nossa aplicação e vai ajudar a modularizar e desenvolver o nosso diretório.
-
-![image](https://user-images.githubusercontent.com/52088444/186224403-48bab54d-077d-4ca1-91c1-0d8591e9b953.png)
-
-Features Modules:modulos de funcionalidades,  módulos locais para organizar melhor o código.
+Classe de Serviço é responsável por fazer a comunicação com o servidor. 
