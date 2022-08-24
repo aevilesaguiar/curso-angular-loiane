@@ -10,6 +10,8 @@ numeros.map(function (valor) {
     return valor * 2;
 });
 numeros.map(function (valor) { return valor * 2; });
+
+
 var Matematica = /** @class */ (function () {
     function Matematica() {
     }
@@ -18,5 +20,3 @@ var Matematica = /** @class */ (function () {
     };
     return Matematica;
 }());
-var n1 = 'sdsfsfsf';
-n1 = 4;
