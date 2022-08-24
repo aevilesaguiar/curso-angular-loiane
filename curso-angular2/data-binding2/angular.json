@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "primeiro-projeto": {
+    "data-binding2": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/primeiro-projeto",
+            "outputPath": "dist/data-binding2",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -24,7 +24,7 @@
             ],
             "styles": [
               "src/styles.css",
-              "../data-binding/node_modules/bootstrap/dist/css/bootstrap-reboot.min.css"
+              "../data-binding2/node_modules/bootstrap/dist/css/bootstrap-reboot.min.css"
             ],
             "scripts": []
           },
@@ -65,10 +65,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "primeiro-projeto:build:production"
+              "browserTarget": "data-binding2:build:production"
             },
             "development": {
-              "browserTarget": "primeiro-projeto:build:development"
+              "browserTarget": "data-binding2:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -76,7 +76,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "primeiro-projeto:build"
+            "browserTarget": "data-binding2:build"
           }
         },
         "test": {
