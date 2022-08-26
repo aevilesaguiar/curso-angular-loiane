@@ -30,3 +30,11 @@ A unica coisa que não é minificado é i index.html
 
 
 
+## http-server
+
+http-server: pequeno servidor do node.js. Instalando ele , você não precisa de servidor apache para testar código simples
+Instalado globalmente com o comando abaixo.
+
+npm install -g http-server
+
+
