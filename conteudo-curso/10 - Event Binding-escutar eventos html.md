@@ -1,4 +1,7 @@
-﻿## Event Binding(Escutar eventos no html do nosso template e executar uma lógica - Binding de eventos)
+﻿## Event Binding
+
+
+(Escutar eventos no html do nosso template e executar uma lógica - Binding de eventos)
 
 
 ## Referencias

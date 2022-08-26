@@ -1,0 +1,2 @@
+﻿## Ciclo de vida Componentes
+
