@@ -9,6 +9,11 @@ ng serve
 
 ng g c meu-primeiro2
 
+## gerar sercice
+
+ng g service diretiva-ngif
+
 ## referencias
 
 http://es6-features.org/#Constants
+https://github.com/angular/angular-cli
