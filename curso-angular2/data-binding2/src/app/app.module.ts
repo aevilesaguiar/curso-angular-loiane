@@ -8,11 +8,13 @@ import { TooltipModule } from 'ngx-bootstrap/tooltip';
 import { FormsModule } from '@angular/forms';
 import { MeuFormModule } from './meu-form/meu-form.module';
 import { OutputPropertyComponent } from './output-property/output-property.component';
+import { CicloComponent } from './ciclo/ciclo.component';
 @NgModule({
   declarations: [
     AppComponent,
     DataBindingComponent,
-    OutputPropertyComponent
+    OutputPropertyComponent,
+    CicloComponent
 
   ],
   imports: [
@@ -25,4 +27,7 @@ import { OutputPropertyComponent } from './output-property/output-property.compo
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule {
+
+  valor: number=5;
+}
