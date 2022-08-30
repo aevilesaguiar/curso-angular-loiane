@@ -1,0 +1,1 @@
+﻿# Diretiva de Atributo: ngClass
